@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "location": "Bangalore",
+    "description": "Build responsive user interfaces using React and Tailwind CSS."
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "location": "Hyderabad",
+    "description": "Develop APIs and manage backend services using Node.js."
+  },
+  {
+    "id": 3,
+    "title": "UI/UX Designer",
+    "location": "Remote",
+    "description": "Design user-friendly interfaces and experiences."
+  }
+]
